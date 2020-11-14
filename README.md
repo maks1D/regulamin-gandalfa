@@ -7,7 +7,7 @@
   
 1. Każdy członek serwera „Gandalf” (dalej **Serwer**) znajdującego się na platformie Discord jest zobowiązany do przestrzegania niniejszego Regulaminu Serwera „Gandalf” (dalej **Regulamin**).
 
-2.  Najnowsza wersja **regulaminu** zawsze będzie dostępna [tutaj](https://github.com/marximimus/regulamin-gandalfa/blob/master/README.md).
+2.  Najnowsza wersja **regulaminu** zawsze będzie dostępna [tutaj](https://github.com/marximimus/regulamin-gandalfa/blob/main/README.md).
 
 3.  Każdy członek **Serwera** może zaproponować zmiany w regulaminie tworząc pull request do tego repozytorium.
 
