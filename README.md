@@ -14,6 +14,9 @@
 4.  Zmiany w **Regulaminie** obowiązują po siedmiu dniach od czasu ich wprowadzenia.
 
 ## §2 Zasady obowiązujące na Serwerze
+1. Definicja spamu - spam to wysyłanie wiadomości w krótkich odstępach czasowych, lub bardzo duże wiadomości bez sensu logicznego.
+2. Spamowanie jest karalne
+3. Edytowanie wiadomości jest dozwolone, a ci którzy mają coś przeciw, to znaczy że cheatują, więc nie mogą protestować, z powodu że sami łamią regulamin.
   
 
 
