@@ -13,7 +13,11 @@
 
 4.  Zmiany w **Regulaminie** obowiązują po siedmiu dniach od czasu ich wprowadzenia.
 
+5.  Moderatorzy mają zawsze racje.
+
 ## §2 Zasady obowiązujące na Serwerze
-  
 
 
+1.  Nie należy edytować jednej wiadomości więcej niż 5 razy w ciągu jednego dnia.
+
+2.  Nie spamujemy na kanałach innych niż #findusbot. Spamowaniem nazywamy wysłanie więcej niż 3 wiadomości w 5 sekund.
